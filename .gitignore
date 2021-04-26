@@ -1,6 +1,4 @@
 node_modules/
-lib/
-dist/
 test/resources/#*
 examples/example.es5.svg
 examples/example.es6.svg
